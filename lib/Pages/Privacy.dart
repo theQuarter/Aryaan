@@ -51,8 +51,8 @@ class _privacyState extends State<privacy> {
                         "They're also required by law in most countries and states in the US. Creating a website privacy policy is easy to do. ... To draft a website privacy policy, you can use an online generator, a blank template, or hire an attorney to write one that suits your needs. A Privacy Policy generally covers The types of information collected by the website or app The purpose for collecting the data. Data storage, security and access. Details of data transfers. Affiliated websites or organizations (third parties included) Use of cookies.",
                         style: TextStyle(
                           fontFamily: "Montserrat",
-                          fontWeight: FontWeight.w300,
-                          fontSize: 18,
+                          fontWeight: FontWeight.w200,
+                          fontSize: 16,
                           color: Color(0xff636363),
                         )),
                   ],
@@ -106,7 +106,7 @@ class _privacyState extends State<privacy> {
                         ),
                         TextButton(
                             onPressed: () {
-                              // Navigator.pushNamed(context, "/Privacy");
+                              Navigator.pushNamed(context, "/MobNumber");
                             },
                             style: TextButton.styleFrom(
                                 elevation: 0,

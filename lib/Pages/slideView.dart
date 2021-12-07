@@ -64,7 +64,7 @@ class SlideContainer extends StatelessWidget {
                 children: <Widget>[
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 8, left: 35.0, right: 35.0, bottom: 0),
+                        top: 8, left: 20.0, right: 20.0, bottom: 0),
                     child: Text(
                       "Online",
                       textAlign: TextAlign.left,
@@ -76,7 +76,7 @@ class SlideContainer extends StatelessWidget {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 0, left: 35.0, right: 35.0, bottom: 10),
+                        top: 0, left: 20, right: 20.0, bottom: 10),
                     child: Text(
                       "Introduction",
                       textAlign: TextAlign.left,
@@ -90,7 +90,7 @@ class SlideContainer extends StatelessWidget {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 2, left: 35.0, right: 35.0, bottom: 10),
+                        top: 2, left: 20.0, right: 20.0, bottom: 10),
                     child: Text(
                       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
                       textAlign: TextAlign.left,
@@ -107,7 +107,7 @@ class SlideContainer extends StatelessWidget {
                 height: 40,
                 child: Padding(
                   padding: const EdgeInsets.only(
-                      top: 8, left: 35.0, right: 35.0, bottom: 20),
+                      top: 8, left: 20.0, right: 20.0, bottom: 20),
                   child: Row(
                     children: <Widget>[
                       Icon(
@@ -172,7 +172,7 @@ class SlideContainer extends StatelessWidget {
                 children: <Widget>[
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 8, left: 35.0, right: 35.0, bottom: 0),
+                        top: 8, left: 20.0, right: 20.0, bottom: 0),
                     child: Text(
                       "Anything",
                       textAlign: TextAlign.left,
@@ -184,7 +184,7 @@ class SlideContainer extends StatelessWidget {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 0, left: 35.0, right: 35.0, bottom: 10),
+                        top: 0, left: 20.0, right: 20.0, bottom: 10),
                     child: Text(
                       "You want",
                       textAlign: TextAlign.left,
@@ -198,7 +198,7 @@ class SlideContainer extends StatelessWidget {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 2, left: 35.0, right: 35.0, bottom: 10),
+                        top: 2, left: 20.0, right: 20.0, bottom: 10),
                     child: Text(
                       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
                       textAlign: TextAlign.left,
@@ -215,7 +215,7 @@ class SlideContainer extends StatelessWidget {
                 height: 40,
                 child: Padding(
                   padding: const EdgeInsets.only(
-                      top: 8, left: 35.0, right: 35.0, bottom: 20),
+                      top: 8, left: 20.0, right: 20.0, bottom: 20),
                   child: Row(
                     children: <Widget>[
                       Icon(
@@ -280,7 +280,7 @@ class SlideContainer extends StatelessWidget {
                 children: <Widget>[
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 8, left: 35.0, right: 35.0, bottom: 0),
+                        top: 8, left: 20.0, right: 20.0, bottom: 0),
                     child: Text(
                       "Build",
                       textAlign: TextAlign.left,
@@ -292,7 +292,7 @@ class SlideContainer extends StatelessWidget {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 0, left: 35.0, right: 35.0, bottom: 10),
+                        top: 0, left: 20.0, right: 20.0, bottom: 10),
                     child: Text(
                       "Own shop",
                       textAlign: TextAlign.left,
@@ -306,7 +306,7 @@ class SlideContainer extends StatelessWidget {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                        top: 2, left: 35.0, right: 35.0, bottom: 10),
+                        top: 2, left: 20.0, right: 20.0, bottom: 10),
                     child: Text(
                       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
                       textAlign: TextAlign.left,
@@ -323,7 +323,7 @@ class SlideContainer extends StatelessWidget {
                 height: 40,
                 child: Padding(
                   padding: const EdgeInsets.only(
-                      top: 8, left: 35.0, right: 35.0, bottom: 20),
+                      top: 8, left: 20.0, right: 20.0, bottom: 20),
                   child: Row(
                     children: <Widget>[
                       Icon(
@@ -391,7 +391,7 @@ class SlideContainer extends StatelessWidget {
                       children: <Widget>[
                         Padding(
                           padding: const EdgeInsets.only(
-                              top: 8, left: 35.0, right: 35.0, bottom: 0),
+                              top: 8, left: 20.0, right: 20.0, bottom: 0),
                           child: Text(
                             "Now",
                             textAlign: TextAlign.left,
@@ -403,7 +403,7 @@ class SlideContainer extends StatelessWidget {
                         ),
                         Padding(
                           padding: const EdgeInsets.only(
-                              top: 0, left: 35.0, right: 35.0, bottom: 10),
+                              top: 0, left: 20.0, right: 20.0, bottom: 10),
                           child: Text(
                             "Welcome",
                             textAlign: TextAlign.left,
@@ -417,7 +417,7 @@ class SlideContainer extends StatelessWidget {
                         ),
                         Padding(
                           padding: const EdgeInsets.only(
-                              top: 2, left: 35.0, right: 35.0, bottom: 10),
+                              top: 2, left: 20.0, right: 20.0, bottom: 10),
                           child: Text(
                             "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
                             textAlign: TextAlign.left,
@@ -434,7 +434,7 @@ class SlideContainer extends StatelessWidget {
                       height: 40,
                       child: Padding(
                         padding: const EdgeInsets.only(
-                            top: 8, left: 35.0, right: 35.0, bottom: 20),
+                            top: 8, left: 20.0, right: 20.0, bottom: 20),
                         child: Row(
                           children: <Widget>[
                             Icon(

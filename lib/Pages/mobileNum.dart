@@ -35,15 +35,22 @@ class _MobNumberState extends State<MobNumber> {
                   "They're also required by law in most countries and states in the US. Creating a website privacy policy is easy to do.",
                   style: TextStyle(
                     fontFamily: "Montserrat",
-                    fontWeight: FontWeight.w300,
-                    fontSize: 18,
+                    fontWeight: FontWeight.w100,
+                    fontSize: 16,
                     color: Color(0xff636363),
                   )),
               SizedBox(
                 height: 12,
               ),
               Container(
-                color: Colors.black87,
+                color: Colors.blue,
+                height: 40,
+              ),
+              SizedBox(
+                height: 12,
+              ),
+              Container(
+                color: Colors.blue,
                 height: 40,
               ),
             ],
