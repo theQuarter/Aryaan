@@ -40,18 +40,24 @@ class _MobNumberState extends State<MobNumber> {
                     color: Color(0xff636363),
                   )),
               SizedBox(
-                height: 12,
+                height: 20,
               ),
               Container(
-                color: Colors.blue,
-                height: 40,
+                decoration: BoxDecoration(
+                    borderRadius: BorderRadius.all(Radius.circular(30)),
+                    color: Colors.blue),
+                // color: Colors.blue,
+                height: 46,
               ),
               SizedBox(
-                height: 12,
+                height: 16,
               ),
               Container(
-                color: Colors.blue,
-                height: 40,
+                decoration: BoxDecoration(
+                    borderRadius: BorderRadius.all(Radius.circular(30)),
+                    color: Colors.blue),
+                // color: Colors.blue,
+                height: 46,
               ),
             ],
           ),
